@@ -7,7 +7,7 @@ Fast forward to today, I’m still learning. But this time, not to break things!
 
 ## Technical Skills 🛠️
 - **Languages:** TypeScript, JavaScript, 
-- **Frameworks & Libraries:** React.js, Next.js, tailwind, bootstrap, style-components
+- **Frameworks & Libraries:** React.js, Next.js, tailwind, bootstrap, style-components, shadcn
 - **Tools & Platforms:** Node.js, GitHub,netlify, Vercel, OpenAI
 
 
