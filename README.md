@@ -1,7 +1,7 @@
 👋 Hi, Ademola. I’m a software engineer focused on harnessing technology to make significant impacts and provide solutions.
 
 ## About Me
-I am a dedicated and enthusiastic Software Developer with a strong foundation in web development fundamentals and experience with various frameworks and libraries. I am passionate about collaborating with experienced teams to deliver user-friendly, visually appealing, and high-performance websites and Applications
+I am a dedicated and enthusiastic Software Developer with a strong foundation in web and App development fundamentals and experience with various frameworks and libraries. I am passionate about collaborating with experienced teams to deliver user-friendly, visually appealing, and high-performance websites and Applications
 
 Fast forward to today, I’m still learning. But this time, not to break things! Now, I’ve taken on a different role, one of an engineer and problem solver, building solutions and creating value. 👷🏾‍♂️
 
