@@ -6,9 +6,9 @@ I am a dedicated and enthusiastic Software Developer with a strong foundation in
 Fast forward to today, I’m still learning. But this time, not to break things! Now, I’ve taken on a different role, one of an engineer and problem solver, building solutions and creating value. 👷🏾‍♂️
 
 ## Technical Skills 🛠️
-- **Languages:** TypeScript, JavaScript,DART 
-- **Frameworks & Libraries:** React.js, Next.js, tailwind, bootstrap, style-components, shadcn,FLUTTER
-- **Tools & Platforms:** Node.js, GitHub,netlify, Vercel, OpenAI
+- **Languages:**JAVASCRIPT,REACT NATIVE
+- **Frameworks & Libraries:** React.js, tailwind, bootstrap, styled-components, shadcn, FRAMER MOTION ,EXPO
+- **Tools & Platforms:** GitHub,, OpenAI
 
 
 ## Key Projects 🧩
