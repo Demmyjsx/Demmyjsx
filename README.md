@@ -8,7 +8,7 @@ Fast forward to today, I’m still learning. But this time, not to break things!
 ## Technical Skills 🛠️
 - **Languages:**JAVASCRIPT,REACT NATIVE
 - **Frameworks & Libraries:** React.js, tailwind, bootstrap, styled-components, shadcn, FRAMER MOTION ,EXPO
-- **Tools & Platforms:** GitHub,, OpenAI
+- **Tools & Platforms:** GitHub, OpenAI
 
 
 ## Key Projects 🧩
