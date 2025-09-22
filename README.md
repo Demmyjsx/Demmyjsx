@@ -7,7 +7,7 @@ Fast forward to today, I’m still learning. But this time, not to break things!
 
 ## Technical Skills 🛠️
 - **Languages:**JAVASCRIPT
-- **Frameworks & Libraries:** React.js,Next js tailwind, Typescript, bootstrap, styled-components, shadcn, FRAMER MOTION ,EXPO
+- **Frameworks & Libraries:** React.js,Next js tailwind, Typescript, bootstrap, styled-components, shadcn, FRAMER MOTION , tailwindcss
 - **Tools & Platforms:** GitHub, OpenAI
 
 
